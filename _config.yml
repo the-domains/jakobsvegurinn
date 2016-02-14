@@ -1,0 +1,28 @@
+name: jakobsvegurinn
+favicon: null
+layout_spectrum: 0.8329001301899552
+typography_spectrum: 0.5617467525880784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8535371865145862
+  lightness: 0.726464906707406
+  saturation: 0.7627741429023445
+  rhythmicContrast: 0.3281199624761939
+purpose: []
