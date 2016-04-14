@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jakobsvegurinn]]></title>
         <description><![CDATA[jakobsvegurinn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jakobsvegurinn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 11:04:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 20:23:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jakobsvegurinn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/445481ff-cc61-49de-b3a0-df06ea4e5613.jpg">]]></description>
+            <link>https://thegrid.ai/jakobsvegurinn/fuzzy-wuzzy-was-a-bear/index.html</link>
+            <guid isPermaLink="false">75d33bf9-4286-4f5b-a231-28e20765f1b6</guid>
+            <pubDate>Thu, 14 Apr 2016 20:22:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Camino de Santiago]]></title>
-            <description><![CDATA[<article><h1>The Camino de Santiago</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0ba4fa1585580220627fda49a35548ee7dc7a5.jpg"></article>]]></description>
-            <link>undefinedthe-camino-de-santiago/index.html</link>
+            <description><![CDATA[<article><h1>The Camino de Santiago</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8580cec4b6f331b8134f1dc98dbd036ef93170a7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jakobsvegurinn/the-camino-de-santiago/index.html</link>
             <guid isPermaLink="false">6a9300f0-fce0-4945-8b12-db16368d1fab</guid>
             <pubDate>Sun, 14 Feb 2016 11:01:20 GMT</pubDate>
         </item>
